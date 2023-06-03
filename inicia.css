@@ -1,0 +1,31 @@
+body {
+    background-image: 
+    url(Hola.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cuadro {
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    background-color:white;
+    margin: 70px auto;
+    padding: 40px;
+    border: black;
+    border-radius: 200px;
+    transition: 2s;
+    background-color:white;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
